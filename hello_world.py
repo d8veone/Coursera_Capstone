@@ -1,2 +1,2 @@
 print('hello world!')
-print('second try')
+print('second_try')
