@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This is the first repository for the Capstone Project
+This is the repository for the Capstone Project
